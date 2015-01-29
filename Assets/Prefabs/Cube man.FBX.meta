@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: febc3b94860d01a428b69264ac3f30c5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bo pie derecho
+    100002: bone  pierna izquierda
+    100004: bone antebrazo derecha
+    100006: bone antebrazo izquierdo
+    100008: bone antepierna derecha
+    100010: bone antepierna izquierda
+    100012: bone barriga
+    100014: bone brazo derecho
+    100016: bone brazo izquierdo
+    100018: bone cabeza
+    100020: bone cuello
+    100022: bone mano derecha
+    100024: bone mano izquierda
+    100026: bone pecho
+    100028: bone pie derecho
+    100030: bone pie izquierdo
+    100032: bone pierna derecha
+    100034: Bone001
+    100036: Bone006
+    100038: Bone010
+    100040: Bone014
+    100042: Bone018
+    100044: box antebrazo derecha
+    100046: box antebrazo izquierdo
+    100048: box antepierna derecha
+    100050: box antepierna izquierda
+    100052: box barriga
+    100054: box brazo derecho
+    100056: box brazo izquierdo
+    100058: box mano derecha
+    100060: box mano izquierda
+    100062: box pecho
+    100064: box pie izquierdo
+    100066: box pierda derecha
+    100068: box pierna izquierda
+    100070: box_cabeza
+    100072: //RootNode
+    400000: bo pie derecho
+    400002: bone  pierna izquierda
+    400004: bone antebrazo derecha
+    400006: bone antebrazo izquierdo
+    400008: bone antepierna derecha
+    400010: bone antepierna izquierda
+    400012: bone barriga
+    400014: bone brazo derecho
+    400016: bone brazo izquierdo
+    400018: bone cabeza
+    400020: bone cuello
+    400022: bone mano derecha
+    400024: bone mano izquierda
+    400026: bone pecho
+    400028: bone pie derecho
+    400030: bone pie izquierdo
+    400032: bone pierna derecha
+    400034: Bone001
+    400036: Bone006
+    400038: Bone010
+    400040: Bone014
+    400042: Bone018
+    400044: box antebrazo derecha
+    400046: box antebrazo izquierdo
+    400048: box antepierna derecha
+    400050: box antepierna izquierda
+    400052: box barriga
+    400054: box brazo derecho
+    400056: box brazo izquierdo
+    400058: box mano derecha
+    400060: box mano izquierda
+    400062: box pecho
+    400064: box pie izquierdo
+    400066: box pierda derecha
+    400068: box pierna izquierda
+    400070: box_cabeza
+    400072: //RootNode
+    4300000: box_cabeza
+    4300002: box pecho
+    4300004: box barriga
+    4300006: box brazo derecho
+    4300008: box antebrazo derecha
+    4300010: box mano derecha
+    4300012: box pierda derecha
+    4300014: box antepierna derecha
+    4300016: bo pie derecho
+    4300018: box antebrazo izquierdo
+    4300020: box mano izquierda
+    4300022: box brazo izquierdo
+    4300024: box antepierna izquierda
+    4300026: box pie izquierdo
+    4300028: box pierna izquierda
+    9500000: //RootNode
+    13700000: bo pie derecho
+    13700002: box antebrazo derecha
+    13700004: box antebrazo izquierdo
+    13700006: box antepierna derecha
+    13700008: box antepierna izquierda
+    13700010: box barriga
+    13700012: box brazo derecho
+    13700014: box brazo izquierdo
+    13700016: box mano derecha
+    13700018: box mano izquierda
+    13700020: box pecho
+    13700022: box pie izquierdo
+    13700024: box pierda derecha
+    13700026: box pierna izquierda
+    13700028: box_cabeza
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bone001
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone  pierna izquierda
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone pierna derecha
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone antepierna izquierda
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone antepierna derecha
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone pie izquierdo
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone pie derecho
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone barriga
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone pecho
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone cuello
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone cabeza
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone brazo izquierdo
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone antebrazo izquierdo
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone mano izquierda
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone brazo derecho
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone antebrazo derecha
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone mano derecha
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Cube man(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bo pie derecho
+      position: {x: .32412982, y: -2.12878847, z: .0547743402}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: .98920244, y: 1.27489781, z: 1}
+      transformModified: 1
+    - name: Bone001
+      position: {x: .0433420651, y: -.748919427, z: .166006893}
+      rotation: {x: 4.36071126e-08, y: -4.36071126e-08, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bone barriga
+      position: {x: -.176776648, y: -2.86102289e-08, z: 0}
+      rotation: {x: -2.24253857e-15, y: -1.96813929e-17, z: .00510189682, w: .999987006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bone pecho
+      position: {x: -.444235444, y: -4.29153424e-08, z: 1.90734859e-08}
+      rotation: {x: -3.96982404e-15, y: -2.81854051e-16, z: -.0122435298, w: .999925077}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: bone cuello
+      position: {x: -.634645224, y: -8.10623177e-08, z: 1.90734859e-08}
+      rotation: {x: -7.10558745e-15, y: -4.20660583e-17, z: .00714257034, w: .999974489}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: bone cabeza
+      position: {x: -.0815878287, y: -1.7166137e-07, z: 0}
+      rotation: {x: -2.78222225e-19, y: 2.71050543e-20, z: -5.68434189e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone014
+      position: {x: -.634653449, y: -1.38282772e-07, z: 0}
+      rotation: {x: 2.19027498e-08, y: 2.82456973e-08, z: .790247798, w: .612787426}
+      scale: {x: .999999762, y: .999999762, z: 1}
+      transformModified: 1
+    - name: bone brazo izquierdo
+      position: {x: -.649645507, y: -1.90734852e-07, z: 7.62939436e-08}
+      rotation: {x: -3.76327236e-16, y: -3.33727487e-15, z: -.112054639, w: .993702054}
+      scale: {x: .999999642, y: .999999642, z: 1}
+      transformModified: 1
+    - name: bone antebrazo izquierdo
+      position: {x: -.753255069, y: 4.76837158e-06, z: 7.62939436e-08}
+      rotation: {x: 1.13580038e-17, y: 1.78081964e-15, z: -.00637783436, w: .999979675}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: bone mano izquierda
+      position: {x: -.532060862, y: -1.94549557e-06, z: 5.72204577e-08}
+      rotation: {x: -3.55000381e-15, y: 4.65256034e-16, z: -.00596015714, w: .999982238}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone018
+      position: {x: -.634652436, y: -2.47955313e-07, z: 0}
+      rotation: {x: -5.03680582e-08, y: -4.09954275e-08, z: -.775575876, w: .631254435}
+      scale: {x: .999999702, y: .999999702, z: 1}
+      transformModified: 1
+    - name: bone brazo derecho
+      position: {x: -.649667799, y: -6.10351549e-07, z: 0}
+      rotation: {x: -8.22624687e-16, y: -6.24703263e-16, z: .113435678, w: .993545353}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: bone antebrazo derecha
+      position: {x: -.743617177, y: -1.94549557e-06, z: 0}
+      rotation: {x: -3.35762227e-19, y: 1.80410897e-16, z: .00186109415, w: .999998271}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: bone mano derecha
+      position: {x: -.519265115, y: -1.86920158e-06, z: 0}
+      rotation: {x: -1.77809241e-15, y: -2.75534074e-16, z: -.0061742845, w: .999980927}
+      scale: {x: .999999762, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Bone006
+      position: {x: -.176776618, y: 8.58306848e-08, z: 0}
+      rotation: {x: 2.19892691e-08, y: 2.77327672e-08, z: .783575714, w: .621296287}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bone  pierna izquierda
+      position: {x: -.301000655, y: 0, z: 1.90734859e-08}
+      rotation: {x: 4.21319051e-08, y: 3.36542598e-08, z: .624115229, w: .781332314}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bone antepierna izquierda
+      position: {x: -.734282672, y: -1.14440915e-07, z: 1.90734859e-08}
+      rotation: {x: -6.24485734e-16, y: 4.26718366e-18, z: -.00683295727, w: .999976695}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: bone pie izquierdo
+      position: {x: -.822107852, y: 0, z: 1.90734859e-08}
+      rotation: {x: .504852176, y: .495100349, z: -.491826922, w: .50804168}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Bone010
+      position: {x: -.176776618, y: 8.58306848e-08, z: 0}
+      rotation: {x: -5.1514597e-08, y: -3.99221811e-08, z: -.790427208, w: .612555981}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: bone pierna derecha
+      position: {x: -.277618885, y: 7.62939436e-08, z: 0}
+      rotation: {x: -3.43493123e-09, y: -4.41781411e-09, z: -.613812923, w: .78945154}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: bone antepierna derecha
+      position: {x: -.743804514, y: -3.08990479e-06, z: 0}
+      rotation: {x: -3.88715413e-14, y: -1.05355022e-11, z: -.00369877205, w: .999993145}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: bone pie derecho
+      position: {x: -.816032529, y: 0, z: 0}
+      rotation: {x: -.488073051, y: .507367134, z: .516995311, w: .486907721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: box antebrazo derecha
+      position: {x: 1.68829679, y: .376599193, z: 1.64616729e-08}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: box antebrazo izquierdo
+      position: {x: -1.60642111, y: .357041687, z: 1.5626421e-08}
+      rotation: {x: 8.14603425e-08, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: box antepierna derecha
+      position: {x: .319567472, y: -1.71429193, z: .0356335081}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: box antepierna izquierda
+      position: {x: -.206229746, y: -1.71429193, z: .0356335081}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: box barriga
+      position: {x: .0381301604, y: -.381477654, z: -.0763830468}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: .729562879, y: .680518866, z: 1.09515345}
+      transformModified: 1
+    - name: box brazo derecho
+      position: {x: 1.05235589, y: .359017134, z: 1.56931375e-08}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: box brazo izquierdo
+      position: {x: -.970480323, y: .339459628, z: 1.48578847e-08}
+      rotation: {x: 8.14603425e-08, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: box mano derecha
+      position: {x: 2.07898235, y: .376392782, z: .111197323}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.08648396, z: .415471822}
+      transformModified: 1
+    - name: box mano izquierda
+      position: {x: -1.99710679, y: .356835276, z: .111197323}
+      rotation: {x: 8.14603425e-08, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: -1.08648396, z: -.415471822}
+      transformModified: 1
+    - name: box pecho
+      position: {x: .0381301604, y: .183090359, z: -.0763830245}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: .974068522, y: 1, z: 1.09515345}
+      transformModified: 1
+    - name: box pie izquierdo
+      position: {x: -.201667398, y: -2.12878847, z: .0547743402}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: .98920244, y: 1.27489781, z: 1}
+      transformModified: 1
+    - name: box pierda derecha
+      position: {x: .303639352, y: -1.00472736, z: -4.39180283e-08}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1.10918105, y: 1.05543602, z: 1.19274342}
+      transformModified: 1
+    - name: box pierna izquierda
+      position: {x: -.222157881, y: -1.00472736, z: -4.39180283e-08}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: 1.10918105, y: 1.05543602, z: 1.19274342}
+      transformModified: 1
+    - name: box_cabeza
+      position: {x: .0595744587, y: .793238759, z: 1.86005683e-10}
+      rotation: {x: 8.14603425e-08, y: 0, z: 0, w: 1}
+      scale: {x: .858170152, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
